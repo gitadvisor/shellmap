@@ -1,19 +1,4 @@
-```
- █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗
-██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝
-███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗
-██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝
-██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗
-╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-███████╗██╗  ██╗███████╗██╗     ██╗
-██╔════╝██║  ██║██╔════╝██║     ██║
-███████╗███████║█████╗  ██║     ██║
-╚════██║██╔══██║██╔══╝  ██║     ██║
-███████║██║  ██║███████╗███████╗███████╗
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-```
-
-# Awesome Shell [![Awesome][awesome-badge]][awesome-link]
+# shell V 1.0 Shell [![Awesome][awesome-badge]][awesome-link]
 
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [Shells](#shells)
